@@ -1,0 +1,12 @@
+[
+  { "key": "id", "type": "int", "label": "ID", "description": "Item description"},
+  { "key": "issuer_name", "type": "string", "label": "Issuer", "description": "Item description" },
+  { "key": "deal_name", "type": "string", "label": "Deal", "description": "Item description" },
+  { "key": "bloomber_id", "type": "string", "label": "Bloomberg ID", "description": "Item description" },
+  { "key": "total", "type": "decimal", "label": "Total", "description": "Item description" },
+  { "key": "industry", "type": "string", "label": "Industry", "description": "Item description" },
+  { "key": "status", "type": "string", "label": "Status", "description": "Item description" },
+  { "key": "analysts", "type": "string[]", "label": "Analysts", "description": "Item description" },
+  { "key": "doc_count", "type": "int", "label": "Docs", "description": "Item description" },
+  { "key": "custom_deal_identifiers", "type": "string[]", "label": "Identifiers", "description": "Item description" }
+]
